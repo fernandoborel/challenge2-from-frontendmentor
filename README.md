@@ -9,6 +9,16 @@ Desktop
 
 
 
+
+
+Mobile
+
+![screencapture-file-C-Users-PICHAU-Desktop-html-css-frontendmentor-challenge2-index-html-2021-08-25-19_48_50](https://user-images.githubusercontent.com/87503905/130874594-eabefd2d-8c3a-47ed-b628-2d0e231e6d81.png)
+
+
+
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
