@@ -1,6 +1,13 @@
+
 # Frontend Mentor - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+Desktop
+
+
+![screencapture-file-C-Users-PICHAU-Desktop-html-css-frontendmentor-challenge2-index-html-2021-08-25-19_48_32](https://user-images.githubusercontent.com/87503905/130874500-47d29337-fd8c-4846-bab9-f885e28f8237.png)
+
+
+
 
 ## Welcome! 👋
 
